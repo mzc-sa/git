@@ -1,4 +1,5 @@
-![git_logo](://user-images.githubusercontent.com/31501015/98638055-b5e42500-236c-11eb-9395-00bdb5d09955.jpg)
+![git_logo](https://user-images.githubusercontent.com/31501015/98638055-b5e42500-236c-11eb-9395-00bdb5d09955.jpg)
+
 <h1> 협업 프로젝트를 위한 Git 저장소 👋</h1>
 <p>
     <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
