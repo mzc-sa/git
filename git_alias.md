@@ -9,6 +9,7 @@
 ### Git Alias 설정 적용
 * Alias들은 ~/.gitconfig 파일에 입력해도 동일하게 동작한다.
 * 아래 Log Type 중에 원하는 타입을 선택하여 Git Config에 적용한다.
+
 **Log Type 1**
 ```
 git config --global alias.ll "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
@@ -36,3 +37,6 @@ $ git lg -n 5
 * 1b7c94d - (4 weeks ago) Update | SG Tasks #30 - jaehwan
 * 57d4970 - (4 weeks ago) Update | SG Tasks #29 - jaehwan
 ```
+
+## 참고
+* https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-Git-Alias
